@@ -1,0 +1,1 @@
+Veri.txt dosyasını bin dosyasına ekledim ve make dosyasında calistir kisminda Veri.txt yi tarayabilmesi için önce bin dosyasını tarar ve Test.exe yi calistirir
